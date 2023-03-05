@@ -1,2 +1,3 @@
 # PHP-CustomSearchJSONAPI
-Google Search
+PHPでCustomSearchJSONAPIを用いて検索するプログラム。
+簡単な検索窓をつけています。
