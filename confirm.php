@@ -4,10 +4,10 @@
 // 定数設定
 //------------------------------------
 //APIキー
-$apiKey = "AIzaSyC6kQQpx0Qn66oYL7lz-qufksbZcGvCymg";
+$apiKey = "APIkey";
 
 //検索エンジンID
-$searchEngineId = "76b8ff487c0104855";
+$searchEngineId = "searchEngineId ";
 
 // 検索用URL
 $baseUrl = "https://www.googleapis.com/customsearch/v1?";
